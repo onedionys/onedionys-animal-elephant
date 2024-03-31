@@ -1,6 +1,6 @@
 {
   "name": "onedionys-animal-elephant",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "One Dionys (Animal Elephant) - Function to display the name of the Elephant animal and only one animal name is displayed.",
   "main": "src/index.js",
   "directories": {
